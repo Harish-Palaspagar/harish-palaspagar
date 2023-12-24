@@ -8,15 +8,15 @@
 
 ### Skills
 
-[![Java](https://img.shields.io/badge/Java-Expert-red?style=flat-square&logo=java)](https://www.java.com/)
-[![Spring](https://img.shields.io/badge/Spring-Advanced-green?style=flat-square&logo=spring)](https://spring.io/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML](https://img.shields.io/badge/HTML5-Advanced-orange?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS3-Intermediate-blue?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Java](https://img.shields.io/badge/Java-Expert-red?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
+[![Spring](https://img.shields.io/badge/Spring-Advanced-green?style=flat-square&logo=spring&logoColor=white)](https://spring.io/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](https://img.shields.io/badge/HTML5-Advanced-orange?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-Intermediate-blue?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### Tools
 
-[![Git](https://img.shields.io/badge/Git-Advanced-orange?style=flat-square&logo=git)](https://git-scm.com/)
+[![Git](https://img.shields.io/badge/Git-Advanced-orange?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 ### Stats
 
