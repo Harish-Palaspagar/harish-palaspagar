@@ -1,20 +1,12 @@
-Hi! My name is Harish Palaspagar 🚀
-========================================================================================================================================
+## Hello! I'm Harish Palaspagar 🚀
 
-🌍  I am a Full Stack Developer based in Pune, India.
-<br/>
+🌍 Full Stack Java Developer based in Pune, India.
 
 ### Skills
-
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp; ![My Skills](https://skillicons.dev/icons?i=js)
-
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) &nbsp; [![Spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) &nbsp; [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) &nbsp; [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) &nbsp; [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 ### Socials
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE_URL)
 
-<div id="badges">
-  <a href="">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
+<!-- Add more social badges if needed -->
 
