@@ -24,7 +24,7 @@ I'm an aspiring Java Developer with a passion for building robust and efficient 
 #### Contact Manager
 - **Description:** A contact management application built using Spring Boot and Spring Security. It allows users to securely manage their contacts with features like authentication and authorization.
 - **Technologies:** Spring Boot, Spring Security, HTML, CSS, JavaScript
-- **Link:** [GitHub Repository]([https://github.com/Harish-Palaspagar/CONTACT_MANAGER])
+- **Link:** [GitHub Repository](https://github.com/Harish-Palaspagar/CONTACT_MANAGER)
 
 #### Tech Blog
 - **Description:** A tech blog platform made using JSP and Servlets, enabling users to write and share blog posts about various technology topics.
