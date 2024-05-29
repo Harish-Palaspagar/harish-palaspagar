@@ -29,7 +29,7 @@ I'm an aspiring Java Developer with a passion for building robust and efficient 
 #### Tech Blog
 - **Description:** A tech blog platform made using JSP and Servlets, enabling users to write and share blog posts about various technology topics.
 - **Technologies:** JSP, Servlets, HTML, CSS, JavaScript
-- **Link:** [GitHub Repository](https://github.com/Harish-Palaspagar/tech-blog)
+- **Link:** [GitHub Repository](https://github.com/Harish-Palaspagar/TECH_BLOG)
 
 ### Goals
 
