@@ -27,12 +27,12 @@ I'm an aspiring Java Developer with a passion for building robust and efficient 
 #### Contact Manager
 - **Description:** A contact management application built using Spring Boot and Spring Security. It allows users to securely manage their contacts with features like authentication and authorization.
 - **Technologies:** Spring Boot, Spring Security, HTML, CSS, JavaScript
-- **Link:** [GitHub Repository](https://github.com/Harish-Palaspagar/CONTACT_MANAGER)
+- **Link:** [GitHub Repository](https://github.com/Harish-Palaspagar/contact-manager)
 
 #### Jop Portal
-- **Description:** A tech blog platform made using JSP and Servlets, enabling users to write and share blog posts about various technology topics.
-- **Technologies:** JSP, Servlets, HTML, CSS, JavaScript
-- **Link:** [GitHub Repository](https://github.com/Harish-Palaspagar/TECH_BLOG)
+- **Description:** This project is a collection of Spring Boot microservices designed to manage company reviews. It uses Eureka for service discovery, RabbitMQ for message communication, Zipkin for distributed tracing, and a GitHub-based Config Server for centralized configuration.
+- **Technologies:** Spring Boot, Rabbit MQ, Zipkin, Maven, Spring cloud
+- **Link:** [GitHub Repository](https://github.com/Harish-Palaspagar/job-portal-microservices)
 
 ### Goals
 
