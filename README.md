@@ -16,6 +16,7 @@ I'm an aspiring Java Developer with a passion for building robust and efficient 
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 [![Zipkin](https://skillicons.dev/icons?i=zipkin)](https://skillicons.dev) &nbsp;
 [![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)](https://skillicons.dev) &nbsp;
+![Zipkin](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Logo-zipkin-transparent%402x.png/800px-Logo-zipkin-transparent%402x.png) &nbsp;
 [![IntelliJ](https://skillicons.dev/icons?i=idea)](https://skillicons.dev) &nbsp;
 [![Maven](https://skillicons.dev/icons?i=maven)](https://skillicons.dev)
 
