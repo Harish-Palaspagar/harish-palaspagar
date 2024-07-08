@@ -29,7 +29,7 @@ I'm an aspiring Java Developer with a passion for building robust and efficient 
 - **Technologies:** Spring Boot, Spring Security, HTML, CSS, JavaScript
 - **Link:** [GitHub Repository](https://github.com/Harish-Palaspagar/CONTACT_MANAGER)
 
-#### Tech Blog
+#### Jop Portal
 - **Description:** A tech blog platform made using JSP and Servlets, enabling users to write and share blog posts about various technology topics.
 - **Technologies:** JSP, Servlets, HTML, CSS, JavaScript
 - **Link:** [GitHub Repository](https://github.com/Harish-Palaspagar/TECH_BLOG)
