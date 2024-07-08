@@ -31,7 +31,7 @@ I'm an aspiring Java Developer with a passion for building robust and efficient 
 
 #### Jop Portal
 - **Description:** This project is a collection of Spring Boot microservices designed to manage company reviews. It uses Eureka for service discovery, RabbitMQ for message communication, Zipkin for distributed tracing, and a GitHub-based Config Server for centralized configuration.
-- **Technologies:** Spring Boot, Rabbit MQ, Zipkin, Maven, Spring cloud
+- **Technologies:** Spring Boot, Rabbit MQ, Zipkin, Maven, Spring Cloud
 - **Link:** [GitHub Repository](https://github.com/Harish-Palaspagar/job-portal-microservices)
 
 ### Goals
