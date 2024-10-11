@@ -13,7 +13,7 @@ I'm an aspiring Java Developer with a passion for building robust and efficient 
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) &nbsp; 
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) &nbsp; 
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp; 
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev) &nbsp; 
 [![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)](https://skillicons.dev) &nbsp;
 [![IntelliJ](https://skillicons.dev/icons?i=idea)](https://skillicons.dev) &nbsp;
 [![Maven](https://skillicons.dev/icons?i=maven)](https://skillicons.dev)  &nbsp; 
