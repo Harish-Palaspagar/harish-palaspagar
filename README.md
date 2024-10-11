@@ -16,7 +16,7 @@ I'm an aspiring Java Developer with a passion for building robust and efficient 
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 [![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)](https://skillicons.dev) &nbsp;
 [![IntelliJ](https://skillicons.dev/icons?i=idea)](https://skillicons.dev) &nbsp;
-[![Maven](https://skillicons.dev/icons?i=maven)](https://skillicons.dev)
+[![Maven](https://skillicons.dev/icons?i=maven)](https://skillicons.dev)  &nbsp; 
 [![Redis](https://skillicons.dev/icons?i=redis)](https://skillicons.dev) &nbsp; 
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) &nbsp; 
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
