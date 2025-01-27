@@ -28,6 +28,12 @@ I'm an aspiring Java Developer with a passion for building robust and efficient 
 
 ### Projects
 
+#### TinyRoute
+
+- **Description:** TinyRoute is a URL shortening platform designed for efficient sharing and tracking. It simplifies creating and managing short links with features like analytics, security, and high performance.
+- **Technologies:** Spring Boot, React, Tailwind CSS, Framer Motion, Neon PostgreSQL, Docker, Netlify, Render
+- **Live Link:** [TinyRoute](https://bright-hotteok-675e52.netlify.app/)
+
 #### Contact Manager
 - **Description:** A contact management application built using Spring Boot and Spring Security. It allows users to securely manage their contacts with features like authentication and authorization.
 - **Technologies:** Spring Boot, Spring Security, HTML, CSS, JavaScript
