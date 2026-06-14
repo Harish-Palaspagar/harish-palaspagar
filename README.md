@@ -9,6 +9,12 @@
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishpalaspagar4@gmail.com)&nbsp;
 [![WhatsApp](https://img.shields.io/badge/+91%2073850%2069217-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917385069217)
 
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=620&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Spring+Boot+%7C+Spring+AI+%7C+Microservices;Clean+APIs%2C+thoughtful+architecture;Open+to+opportunities+%7C+Pune+%7C+Remote)](https://git.io/typing-svg)
+
+<br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Harish-Palaspagar&color=00b4d8&style=flat-square&label=Profile+Views)
 
 </div>
@@ -17,15 +23,49 @@
 
 ---
 
-<br/>
+## 🧠 About
+
+<table>
+<tr>
+<td valign="top" width="55%">
 
 I build **backend systems that scale** — clean APIs, thoughtful architecture, and a growing obsession with weaving AI into real products using **Spring AI**. I like code that makes you nod, not just compile.
 
 <br/>
 
----
+🏢 &nbsp;**Java SWE** @ Nexflare Dynamics, Pune  
+📍 &nbsp;Open to **Pune · Nagpur · Remote**  
+🔭 &nbsp;Exploring **Spring AI + LLM integrations**  
+💬 &nbsp;Ask me about **Spring Boot, Microservices, System Design**
+
+</td>
+<td valign="top" width="45%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Harish-Palaspagar&show_icons=true&count_private=true&bg_color=0D1117&title_color=00b4d8&text_color=a0c4ff&icon_color=00b4d8&border_color=1a3a5c" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Harish-Palaspagar&theme=dark&background=0D1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=a0c4ff&dates=a0c4ff&sideNums=ffffff&currStreakNum=ffffff&border=1a3a5c" width="49%"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-Palaspagar&layout=compact&bg_color=0D1117&title_color=00b4d8&text_color=a0c4ff&border_color=1a3a5c" width="45%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harish-Palaspagar&bg_color=0D1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&area_color=00b4d8&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+---
 
 ## ⚡ Tech Stack
 
@@ -49,13 +89,12 @@ I build **backend systems that scale** — clean APIs, thoughtful architecture, 
 **DevOps · Cloud · Tools**
 
 [![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)&nbsp;
+[![AWS](https://skillicons.dev/icons?i=aws&theme=dark)](https://skillicons.dev)&nbsp;
 [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)&nbsp;
 [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://skillicons.dev)&nbsp;
-[![AWS](https://skillicons.dev/icons?i=aws&theme=dark)](https://skillicons.dev)&nbsp;
+[![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)&nbsp;
 [![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://skillicons.dev)&nbsp;
-[![IntelliJ](https://skillicons.dev/icons?i=idea&theme=dark)](https://skillicons.dev)&nbsp;
-[![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev)&nbsp;
-[![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
+[![IntelliJ](https://skillicons.dev/icons?i=idea&theme=dark)](https://skillicons.dev)
 
 **Frontend**
 
@@ -65,6 +104,8 @@ I build **backend systems that scale** — clean APIs, thoughtful architecture, 
 [![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev)&nbsp;
 [![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev)
 
+<br/>
+
 `Spring AI` &nbsp;·&nbsp; `Spring Security` &nbsp;·&nbsp; `Spring Cloud` &nbsp;·&nbsp; `Keycloak` &nbsp;·&nbsp; `MinIO` &nbsp;·&nbsp; `InfluxDB` &nbsp;·&nbsp; `Ollama` &nbsp;·&nbsp; `Flyway` &nbsp;·&nbsp; `Prometheus` &nbsp;·&nbsp; `Grafana` &nbsp;·&nbsp; `JWT` &nbsp;·&nbsp; `OpenAPI`
 
 </div>
@@ -73,169 +114,180 @@ I build **backend systems that scale** — clean APIs, thoughtful architecture, 
 
 ---
 
-<br/>
-
 ## 🚀 Projects
 
-<br/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+**🤖 Lovable Clone** &nbsp;—&nbsp; *AI-Powered App Builder*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0a2540&height=80&text=01%20·%20Lovable%20Clone&fontSize=24&fontColor=00b4d8&fontAlignY=55&desc=AI-Powered%20App%20Builder%20Backend&descSize=13&descColor=a0c4ff&descAlignY=80" width="100%"/>
+I wanted to understand how AI-powered app builders work under the hood — so I built one. Spring AI drives intelligence, Stripe handles subscriptions, MinIO manages file storage.
 
-</div>
-
-`Spring Boot` &nbsp;`Spring AI` &nbsp;`PostgreSQL` &nbsp;`MinIO` &nbsp;`Stripe` &nbsp;`Docker`
-
-I wanted to understand how AI-powered app builders work under the hood — so I built one. Spring AI drives the intelligent features, Stripe handles subscriptions, MinIO manages file storage.
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72C48?style=flat-square)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harish-Palaspagar/lovable-ms)
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0a2540&height=80&text=02%20·%20HealthFlex&fontSize=24&fontColor=00b4d8&fontAlignY=55&desc=Hospital%20Management%20System&descSize=13&descColor=a0c4ff&descAlignY=80" width="100%"/>
-
-</div>
-
-`Spring Boot` &nbsp;`Microservices` &nbsp;`Spring Security` &nbsp;`RBAC`
+**🏥 HealthFlex** &nbsp;—&nbsp; *Hospital Management System*
 
 Patient records, doctor scheduling, role-based access for admins and medical staff — all on a microservices backbone. Each module scales independently, no monolith here.
 
-[![Live](https://img.shields.io/badge/Live%20Demo-00b4d8?style=for-the-badge&logo=vercel&logoColor=white)](https://healthflex-eosin.vercel.app/login)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-00b4d8?style=flat-square)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-a0c4ff?style=flat-square&logoColor=white)
 
-<br/>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00b4d8?style=for-the-badge&logo=vercel&logoColor=white)](https://healthflex-eosin.vercel.app/login)
 
-<div align="center">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0a2540&height=80&text=03%20·%20TinyRoute&fontSize=24&fontColor=00b4d8&fontAlignY=55&desc=URL%20Shortening%20Platform&descSize=13&descColor=a0c4ff&descAlignY=80" width="100%"/>
-
-</div>
-
-`Spring Boot` &nbsp;`React` &nbsp;`Tailwind CSS` &nbsp;`Neon PostgreSQL` &nbsp;`Netlify` &nbsp;`Render`
+**🔗 TinyRoute** &nbsp;—&nbsp; *URL Shortening Platform*
 
 A URL shortener with actual analytics — because knowing where your links go matters. Spring Boot backend, React + Tailwind frontend, distributed across Netlify and Render.
 
-[![Live](https://img.shields.io/badge/Live%20Demo-00b4d8?style=for-the-badge&logo=netlify&logoColor=white)](https://bright-hotteok-675e52.netlify.app)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Neon_PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-<br/>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00b4d8?style=for-the-badge&logo=netlify&logoColor=white)](https://bright-hotteok-675e52.netlify.app)
 
-<div align="center">
+</td>
+<td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0a2540&height=80&text=04%20·%20Home%20Energy%20Tracker&fontSize=24&fontColor=00b4d8&fontAlignY=55&desc=IoT%20Monitoring%20%2B%20Local%20LLM%20Analysis&descSize=13&descColor=a0c4ff&descAlignY=80" width="100%"/>
-
-</div>
-
-`Spring Boot` &nbsp;`Kafka` &nbsp;`InfluxDB` &nbsp;`Keycloak` &nbsp;`Ollama` &nbsp;`Docker`
+**🏠 Home Energy Tracker** &nbsp;—&nbsp; *IoT + Local LLM*
 
 IoT energy monitoring tracking real-time power consumption. Kafka ingests sensor streams, InfluxDB stores time-series data, Ollama adds local LLM analysis on top.
 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harish-Palaspagar/home-energy-tracker-iot)
 
-<br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0a2540&height=80&text=05%20·%20RBAC%20Engine&fontSize=24&fontColor=00b4d8&fontAlignY=55&desc=Dynamic%20Authorization%20%7C%2080%25%2B%20Test%20Coverage&descSize=13&descColor=a0c4ff&descAlignY=80" width="100%"/>
-
-</div>
-
-`Spring Security` &nbsp;`JWT` &nbsp;`PostgreSQL` &nbsp;`JaCoCo`
+**🔐 RBAC Engine** &nbsp;—&nbsp; *Dynamic Authorization · 80%+ Coverage*
 
 A plug-and-play Role-Based Access Control engine for any Spring Boot app. Define roles and permissions in config, let the engine enforce them — ships with 80%+ test coverage.
 
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![JaCoCo](https://img.shields.io/badge/JaCoCo-EF2D5E?style=flat-square)
+
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harish-Palaspagar/rbac-engine)
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
+**💼 LinkedIn Microservices** &nbsp;—&nbsp; *Spring Cloud Decomposition*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0a2540&height=80&text=06%20·%20LinkedIn%20Microservices&fontSize=24&fontColor=00b4d8&fontAlignY=55&desc=Spring%20Cloud%20Decomposition&descSize=13&descColor=a0c4ff&descAlignY=80" width="100%"/>
+Profiles, connections, feed, messaging, and notifications — each in their own service. RabbitMQ wires async events, Eureka handles discovery, Zipkin traces everything.
 
-</div>
-
-`Spring Boot` &nbsp;`Spring Cloud` &nbsp;`Eureka` &nbsp;`RabbitMQ` &nbsp;`Zipkin`
-
-Profiles, connections, feed, messaging, and notifications — each in their own service. RabbitMQ wires async events between them, Eureka handles discovery, Zipkin traces everything.
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Eureka](https://img.shields.io/badge/Eureka-0D1117?style=flat-square)
+![Zipkin](https://img.shields.io/badge/Zipkin-FE7139?style=flat-square)
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harish-Palaspagar/linkedIn-ms)
 
-<br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0a2540&height=80&text=07%20·%20Airbnb%20Clone&fontSize=24&fontColor=00b4d8&fontAlignY=55&desc=Backend-Complete%20Booking%20System&descSize=13&descColor=a0c4ff&descAlignY=80" width="100%"/>
-
-</div>
-
-`Spring Boot` &nbsp;`PostgreSQL` &nbsp;`REST APIs` &nbsp;`JPA`
+**🏨 Airbnb Clone** &nbsp;—&nbsp; *Backend-Complete Booking System*
 
 Property listings, booking flows, availability calendars, and auth — all backend, no shortcuts. Focused on getting the data model right before any UI gets in the way.
 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-6DB33F?style=flat-square)
+![REST](https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square)
+
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harish-Palaspagar/air-bnb-clone-springboot)
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0a2540&height=80&text=08%20·%20Event%20Organizer&fontSize=24&fontColor=00b4d8&fontAlignY=55&desc=Full-Stack%20Event%20Management&descSize=13&descColor=a0c4ff&descAlignY=80" width="100%"/>
-
-</div>
-
-`Spring Boot` &nbsp;`TypeScript` &nbsp;`JPA` &nbsp;`REST APIs`
+**📅 Event Organizer** &nbsp;—&nbsp; *Full-Stack Event Management*
 
 End-to-end event management — creation, scheduling, attendee tracking, and notifications. Spring Boot backend paired with a TypeScript frontend.
 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-6DB33F?style=flat-square)
+![REST](https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square)
+
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harish-Palaspagar/event-organizer-spring-boot)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ---
-
-<br/>
 
 ## 💼 Work Experience
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0a1a2e&height=60&text=Nexflare%20Dynamics%2C%20Pune&fontSize=18&fontColor=ffffff&fontAlignY=60&desc=Java%20Software%20Engineer%20·%20Mar%202025%20–%20Apr%202026&descSize=12&descColor=a0c4ff&descAlignY=90" width="100%"/>
-
-</div>
-
-Backend of a transport ERP — CRM, HRMS, and core ops. Shipped new features, kept microservices healthy, connected third-party APIs that automated the tedious stuff.
-
-`Java` &nbsp;`Spring Boot` &nbsp;`Microservices` &nbsp;`REST APIs` &nbsp;`ERP`
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0a1a2e&height=60&text=Nexflare%20Dynamics%2C%20Pune&fontSize=18&fontColor=ffffff&fontAlignY=60&desc=Java%20Software%20Engineer%20Intern%20·%20Sep%202024%20–%20Feb%202025&descSize=12&descColor=a0c4ff&descAlignY=90" width="100%"/>
-
-</div>
-
-Built backend modules from scratch, shaped service architecture, and survived API testing in production. They kept me on full-time — which felt good.
-
-`Spring Boot` &nbsp;`Architecture` &nbsp;`API Testing`
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0a1a2e&height=60&text=Xenosis%20IT%20Solutions%2C%20Nagpur&fontSize=18&fontColor=ffffff&fontAlignY=60&desc=Java%20Software%20Engineer%20Intern%20·%20Jul%202024%20–%20Aug%202024&descSize=12&descColor=a0c4ff&descAlignY=90" width="100%"/>
-
-</div>
-
-Short but dense. Spring Boot microservices, Spring Security auth, RabbitMQ async messaging, Redis caching — and documented everything with Springdoc OpenAPI because future me deserves good docs.
-
-`Spring Security` &nbsp;`RabbitMQ` &nbsp;`Redis` &nbsp;`OpenAPI`
+<table>
+<tr>
+<td nowrap valign="top">
+<img src="https://img.shields.io/badge/Mar_2025_–_Apr_2026-00b4d8?style=flat-square&logoColor=white"/>
+</td>
+<td valign="top">
+<strong>Java Software Engineer</strong> &nbsp;·&nbsp; Nexflare Dynamics, Pune<br/>
+Backend of a transport ERP — CRM, HRMS, and core ops. Shipped new features, kept microservices healthy, connected third-party APIs that automated the tedious stuff.<br/><br/>
+<code>Java</code> &nbsp;<code>Spring Boot</code> &nbsp;<code>Microservices</code> &nbsp;<code>REST APIs</code> &nbsp;<code>ERP</code>
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td nowrap valign="top">
+<img src="https://img.shields.io/badge/Sep_2024_–_Feb_2025-a0c4ff?style=flat-square&logoColor=white"/>
+</td>
+<td valign="top">
+<strong>Java Software Engineer Intern</strong> &nbsp;·&nbsp; Nexflare Dynamics, Pune<br/>
+Built backend modules from scratch, shaped service architecture, and survived API testing in production. They kept me on full-time — which felt good.<br/><br/>
+<code>Spring Boot</code> &nbsp;<code>Architecture</code> &nbsp;<code>API Testing</code>
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td nowrap valign="top">
+<img src="https://img.shields.io/badge/Jul_2024_–_Aug_2024-a0c4ff?style=flat-square&logoColor=white"/>
+</td>
+<td valign="top">
+<strong>Java Software Engineer Intern</strong> &nbsp;·&nbsp; Xenosis IT Solutions, Nagpur<br/>
+Short but dense. Spring Boot microservices, Spring Security auth, RabbitMQ async messaging, Redis caching — and documented everything with Springdoc OpenAPI because future me deserves good docs.<br/><br/>
+<code>Spring Security</code> &nbsp;<code>RabbitMQ</code> &nbsp;<code>Redis</code> &nbsp;<code>OpenAPI</code>
+</td>
+</tr>
+</table>
 
 <br/>
 
 ---
-
-<br/>
 
 <div align="center">
 
