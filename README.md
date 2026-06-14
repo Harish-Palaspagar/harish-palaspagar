@@ -1,244 +1,282 @@
-<div align="center">
+::: {align="center"}
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00b4d8,100:0D1117&height=200&section=header&text=Harish%20Palaspagar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Java%20Software%20Engineer%20·%20Spring%20Boot%20·%20Spring%20AI%20·%20Microservices&descSize=16&descAlignY=58&descColor=a0c4ff" width="100%"/>`{=html}
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00b4d8,100:0D1117&height=200&section=header&text=Harish%20Palaspagar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Java%20Software%20Engineer%20·%20Spring%20Boot%20·%20Spring%20AI%20·%20Microservices&descSize=16&descAlignY=58&descColor=a0c4ff" width="100%"/>
+`<br/>`{=html}
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0D1117?style=for-the-badge)](https://portfolio-tan-one-63.vercel.app)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-palaspagar/)&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishpalaspagar4@gmail.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0D1117?style=for-the-badge)](https://portfolio-tan-one-63.vercel.app) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-palaspagar/) 
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishpalaspagar4@gmail.com) 
 [![WhatsApp](https://img.shields.io/badge/+91%2073850%2069217-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917385069217)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Harish-Palaspagar&color=00b4d8&style=flat-square&label=Profile+Views)
+![Profile
+Views](https://komarev.com/ghpvc/?username=Harish-Palaspagar&color=00b4d8&style=flat-square&label=Profile+Views)
+:::
 
-</div>
+`<br/>`{=html}
 
-<br/>
+------------------------------------------------------------------------
 
----
+`<br/>`{=html}
 
-<br/>
+I build **backend systems that scale** --- clean APIs, thoughtful
+architecture, and a growing obsession with weaving AI into real products
+using **Spring AI**. I like code that makes you nod, not just compile.
 
-I build **backend systems that scale** — clean APIs, thoughtful architecture, and a growing obsession with weaving AI into real products using **Spring AI**. I like code that makes you nod, not just compile.
+`<br/>`{=html}
 
-<br/>
+------------------------------------------------------------------------
 
----
-
-<br/>
+`<br/>`{=html}
 
 ## ⚡ Tech Stack
 
-<div align="center">
-
+::: {align="center"}
 **Backend**
 
-[![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)&nbsp;
-[![Spring](https://skillicons.dev/icons?i=spring&theme=dark)](https://skillicons.dev)&nbsp;
-[![Hibernate](https://skillicons.dev/icons?i=hibernate&theme=dark)](https://skillicons.dev)&nbsp;
+[![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev) 
+[![Spring](https://skillicons.dev/icons?i=spring&theme=dark)](https://skillicons.dev) 
+[![Hibernate](https://skillicons.dev/icons?i=hibernate&theme=dark)](https://skillicons.dev) 
 [![Maven](https://skillicons.dev/icons?i=maven&theme=dark)](https://skillicons.dev)
 
 **Messaging · Caching · Databases**
 
-[![Kafka](https://skillicons.dev/icons?i=kafka&theme=dark)](https://skillicons.dev)&nbsp;
-[![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq&theme=dark)](https://skillicons.dev)&nbsp;
-[![Redis](https://skillicons.dev/icons?i=redis&theme=dark)](https://skillicons.dev)&nbsp;
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev)&nbsp;
+[![Kafka](https://skillicons.dev/icons?i=kafka&theme=dark)](https://skillicons.dev) 
+[![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq&theme=dark)](https://skillicons.dev) 
+[![Redis](https://skillicons.dev/icons?i=redis&theme=dark)](https://skillicons.dev) 
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev) 
 [![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
 
 **DevOps · Cloud · Tools**
 
-[![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)&nbsp;
-[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)&nbsp;
-[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://skillicons.dev)&nbsp;
-[![AWS](https://skillicons.dev/icons?i=aws&theme=dark)](https://skillicons.dev)&nbsp;
-[![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://skillicons.dev)&nbsp;
-[![IntelliJ](https://skillicons.dev/icons?i=idea&theme=dark)](https://skillicons.dev)&nbsp;
-[![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev)&nbsp;
+[![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev) 
+[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev) 
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://skillicons.dev) 
+[![AWS](https://skillicons.dev/icons?i=aws&theme=dark)](https://skillicons.dev) 
+[![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://skillicons.dev) 
+[![IntelliJ](https://skillicons.dev/icons?i=idea&theme=dark)](https://skillicons.dev) 
+[![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev) 
 [![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
 
 **Frontend**
 
-[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)&nbsp;
-[![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://skillicons.dev)&nbsp;
-[![TailwindCSS](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://skillicons.dev)&nbsp;
-[![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev)&nbsp;
+[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev) 
+[![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://skillicons.dev) 
+[![TailwindCSS](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://skillicons.dev) 
+[![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev) 
 [![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev)
 
-`Spring AI` &nbsp;·&nbsp; `Spring Security` &nbsp;·&nbsp; `Spring Cloud` &nbsp;·&nbsp; `Keycloak` &nbsp;·&nbsp; `MinIO` &nbsp;·&nbsp; `InfluxDB` &nbsp;·&nbsp; `Ollama` &nbsp;·&nbsp; `Flyway` &nbsp;·&nbsp; `Prometheus` &nbsp;·&nbsp; `Grafana` &nbsp;·&nbsp; `JWT` &nbsp;·&nbsp; `OpenAPI`
+`Spring AI`  ·  `Spring Security`  ·  `Spring Cloud`  ·  `Keycloak`  · 
+`MinIO`  ·  `InfluxDB`  ·  `Ollama`  ·  `Flyway`  ·  `Prometheus`  · 
+`Grafana`  ·  `JWT`  ·  `OpenAPI`
+:::
 
-</div>
+`<br/>`{=html}
 
-<br/>
+------------------------------------------------------------------------
 
----
+`<br/>`{=html}
 
-<br/>
+## 🚀 Featured Projects
 
-## 🚀 Projects
+::: {align="center"}
+`<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:0891b2&height=90&text=AI%20%2B%20Cloud%20%2B%20Microservices%20Portfolio&fontSize=24&fontColor=ffffff&fontAlignY=55&desc=Production-style%20backend%20systems%20built%20with%20modern%20Java%20ecosystem&descSize=13&descColor=cffafe&descAlignY=80" width="100%"/>`{=html}
+:::
 
-<br/>
+`<br/>`{=html}
 
-<div align="center">
+### 🤖 Lovable Clone --- AI Powered Application Builder
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0a2540&height=80&text=01%20·%20Lovable%20Clone&fontSize=24&fontColor=00b4d8&fontAlignY=55&desc=AI-Powered%20App%20Builder%20Backend&descSize=13&descColor=a0c4ff&descAlignY=80" width="100%"/>
+> **Building applications through AI conversations --- powered by Spring
+> AI.**
 
-</div>
+**Tech Stack**
 
-`Spring Boot` &nbsp;`Spring AI` &nbsp;`PostgreSQL` &nbsp;`MinIO` &nbsp;`Stripe` &nbsp;`Docker`
+`Spring Boot` `Spring AI` `PostgreSQL` `MinIO` `Stripe` `Docker`
 
-I wanted to understand how AI-powered app builders work under the hood — so I built one. Spring AI drives the intelligent features, Stripe handles subscriptions, MinIO manages file storage.
+**Highlights**
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harish-Palaspagar/lovable-ms)
+-   🧠 AI-driven application generation workflow
+-   💳 Subscription management with Stripe integration
+-   📦 Object storage using MinIO
+-   🔐 Secure backend architecture ready for scaling
 
-<br/>
+[![GitHub](https://img.shields.io/badge/View%20Source-GitHub-111827?style=for-the-badge&logo=github)](https://github.com/Harish-Palaspagar/lovable-ms)
 
-<div align="center">
+------------------------------------------------------------------------
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0a2540&height=80&text=02%20·%20HealthFlex&fontSize=24&fontColor=00b4d8&fontAlignY=55&desc=Hospital%20Management%20System&descSize=13&descColor=a0c4ff&descAlignY=80" width="100%"/>
+### 🏥 HealthFlex --- Hospital Management Platform
 
-</div>
+> **A scalable healthcare platform built with microservice
+> architecture.**
 
-`Spring Boot` &nbsp;`Microservices` &nbsp;`Spring Security` &nbsp;`RBAC`
+**Tech Stack**
 
-Patient records, doctor scheduling, role-based access for admins and medical staff — all on a microservices backbone. Each module scales independently, no monolith here.
+`Spring Boot` `Microservices` `Spring Security` `RBAC` `PostgreSQL`
 
-[![Live](https://img.shields.io/badge/Live%20Demo-00b4d8?style=for-the-badge&logo=vercel&logoColor=white)](https://healthflex-eosin.vercel.app/login)
+**Highlights**
 
-<br/>
+-   👨‍⚕️ Patient and doctor management
+-   🔑 Role-based access control for medical teams
+-   🧩 Independent services for better scalability
+-   🌐 Production-ready REST APIs
 
-<div align="center">
+[![Live
+Demo](https://img.shields.io/badge/Live%20Demo-0891b2?style=for-the-badge&logo=vercel)](https://healthflex-eosin.vercel.app/login)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0a2540&height=80&text=03%20·%20TinyRoute&fontSize=24&fontColor=00b4d8&fontAlignY=55&desc=URL%20Shortening%20Platform&descSize=13&descColor=a0c4ff&descAlignY=80" width="100%"/>
+------------------------------------------------------------------------
 
-</div>
+### 🔗 TinyRoute --- Smart URL Shortener
 
-`Spring Boot` &nbsp;`React` &nbsp;`Tailwind CSS` &nbsp;`Neon PostgreSQL` &nbsp;`Netlify` &nbsp;`Render`
+> **A full-stack URL management platform with analytics.**
 
-A URL shortener with actual analytics — because knowing where your links go matters. Spring Boot backend, React + Tailwind frontend, distributed across Netlify and Render.
+**Tech Stack**
 
-[![Live](https://img.shields.io/badge/Live%20Demo-00b4d8?style=for-the-badge&logo=netlify&logoColor=white)](https://bright-hotteok-675e52.netlify.app)
+`Spring Boot` `React` `Tailwind CSS` `Neon PostgreSQL` `Render`
 
-<br/>
+**Highlights**
 
-<div align="center">
+-   📊 Link analytics and tracking
+-   ⚡ Fast redirect service
+-   🎨 Modern responsive frontend
+-   ☁️ Cloud deployment architecture
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0a2540&height=80&text=04%20·%20Home%20Energy%20Tracker&fontSize=24&fontColor=00b4d8&fontAlignY=55&desc=IoT%20Monitoring%20%2B%20Local%20LLM%20Analysis&descSize=13&descColor=a0c4ff&descAlignY=80" width="100%"/>
+[![Live
+Demo](https://img.shields.io/badge/Live%20Demo-0891b2?style=for-the-badge&logo=netlify)](https://bright-hotteok-675e52.netlify.app)
 
-</div>
+------------------------------------------------------------------------
 
-`Spring Boot` &nbsp;`Kafka` &nbsp;`InfluxDB` &nbsp;`Keycloak` &nbsp;`Ollama` &nbsp;`Docker`
+### ⚡ Home Energy Tracker --- IoT + Local AI Analytics
 
-IoT energy monitoring tracking real-time power consumption. Kafka ingests sensor streams, InfluxDB stores time-series data, Ollama adds local LLM analysis on top.
+> **Real-time energy monitoring with event-driven architecture.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harish-Palaspagar/home-energy-tracker-iot)
+**Tech Stack**
 
-<br/>
+`Spring Boot` `Kafka` `InfluxDB` `Keycloak` `Ollama` `Docker`
 
-<div align="center">
+**Highlights**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0a2540&height=80&text=05%20·%20RBAC%20Engine&fontSize=24&fontColor=00b4d8&fontAlignY=55&desc=Dynamic%20Authorization%20%7C%2080%25%2B%20Test%20Coverage&descSize=13&descColor=a0c4ff&descAlignY=80" width="100%"/>
+-   📡 Real-time IoT sensor data processing
+-   📨 Kafka-based event streaming
+-   📈 Time-series monitoring with InfluxDB
+-   🧠 Local LLM analysis using Ollama
 
-</div>
+[![GitHub](https://img.shields.io/badge/View%20Source-GitHub-111827?style=for-the-badge&logo=github)](https://github.com/Harish-Palaspagar/home-energy-tracker-iot)
 
-`Spring Security` &nbsp;`JWT` &nbsp;`PostgreSQL` &nbsp;`JaCoCo`
+------------------------------------------------------------------------
 
-A plug-and-play Role-Based Access Control engine for any Spring Boot app. Define roles and permissions in config, let the engine enforce them — ships with 80%+ test coverage.
+### 🔐 RBAC Engine --- Dynamic Authorization Framework
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harish-Palaspagar/rbac-engine)
+> **Reusable security module for Spring Boot applications.**
 
-<br/>
+**Tech Stack**
 
-<div align="center">
+`Spring Security` `JWT` `PostgreSQL` `JaCoCo`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0a2540&height=80&text=06%20·%20LinkedIn%20Microservices&fontSize=24&fontColor=00b4d8&fontAlignY=55&desc=Spring%20Cloud%20Decomposition&descSize=13&descColor=a0c4ff&descAlignY=80" width="100%"/>
+**Highlights**
 
-</div>
+-   Dynamic roles and permissions
+-   Plug-and-play security design
+-   Automated testing with 80%+ coverage
 
-`Spring Boot` &nbsp;`Spring Cloud` &nbsp;`Eureka` &nbsp;`RabbitMQ` &nbsp;`Zipkin`
+[![GitHub](https://img.shields.io/badge/View%20Source-GitHub-111827?style=for-the-badge&logo=github)](https://github.com/Harish-Palaspagar/rbac-engine)
 
-Profiles, connections, feed, messaging, and notifications — each in their own service. RabbitMQ wires async events between them, Eureka handles discovery, Zipkin traces everything.
+------------------------------------------------------------------------
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harish-Palaspagar/linkedIn-ms)
+### ☁️ LinkedIn Microservices Clone
 
-<br/>
+> **A distributed social platform demonstrating Spring Cloud patterns.**
 
-<div align="center">
+**Tech Stack**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0a2540&height=80&text=07%20·%20Airbnb%20Clone&fontSize=24&fontColor=00b4d8&fontAlignY=55&desc=Backend-Complete%20Booking%20System&descSize=13&descColor=a0c4ff&descAlignY=80" width="100%"/>
+`Spring Boot` `Spring Cloud` `Eureka` `RabbitMQ` `Zipkin`
 
-</div>
+**Highlights**
 
-`Spring Boot` &nbsp;`PostgreSQL` &nbsp;`REST APIs` &nbsp;`JPA`
+-   Service discovery with Eureka
+-   Async communication using RabbitMQ
+-   Distributed tracing with Zipkin
 
-Property listings, booking flows, availability calendars, and auth — all backend, no shortcuts. Focused on getting the data model right before any UI gets in the way.
+[![GitHub](https://img.shields.io/badge/View%20Source-GitHub-111827?style=for-the-badge&logo=github)](https://github.com/Harish-Palaspagar/linkedIn-ms)
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harish-Palaspagar/air-bnb-clone-springboot)
+------------------------------------------------------------------------
 
-<br/>
+### 🏠 Airbnb Clone Backend
 
-<div align="center">
+> **Backend-first booking platform focused on clean domain modelling.**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0a2540&height=80&text=08%20·%20Event%20Organizer&fontSize=24&fontColor=00b4d8&fontAlignY=55&desc=Full-Stack%20Event%20Management&descSize=13&descColor=a0c4ff&descAlignY=80" width="100%"/>
+**Tech Stack**
 
-</div>
+`Spring Boot` `JPA` `PostgreSQL` `REST APIs`
 
-`Spring Boot` &nbsp;`TypeScript` &nbsp;`JPA` &nbsp;`REST APIs`
+**Highlights**
 
-End-to-end event management — creation, scheduling, attendee tracking, and notifications. Spring Boot backend paired with a TypeScript frontend.
+-   Property listing management
+-   Booking workflow
+-   Availability handling
+-   Clean REST API design
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harish-Palaspagar/event-organizer-spring-boot)
+[![GitHub](https://img.shields.io/badge/View%20Source-GitHub-111827?style=for-the-badge&logo=github)](https://github.com/Harish-Palaspagar/air-bnb-clone-springboot)
 
-<br/>
+------------------------------------------------------------------------
 
----
+### 🎟️ Event Organizer Platform
 
-<br/>
+> **Full-stack event management solution.**
+
+**Tech Stack**
+
+`Spring Boot` `TypeScript` `JPA` `REST APIs`
+
+**Highlights**
+
+-   Event creation and scheduling
+-   Attendee management
+-   Backend + frontend integration
+
+[![GitHub](https://img.shields.io/badge/View%20Source-GitHub-111827?style=for-the-badge&logo=github)](https://github.com/Harish-Palaspagar/event-organizer-spring-boot)
 
 ## 💼 Work Experience
 
-<div align="center">
+::: {align="center"}
+`<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0a1a2e&height=60&text=Nexflare%20Dynamics%2C%20Pune&fontSize=18&fontColor=ffffff&fontAlignY=60&desc=Java%20Software%20Engineer%20·%20Mar%202025%20–%20Apr%202026&descSize=12&descColor=a0c4ff&descAlignY=90" width="100%"/>`{=html}
+:::
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0a1a2e&height=60&text=Nexflare%20Dynamics%2C%20Pune&fontSize=18&fontColor=ffffff&fontAlignY=60&desc=Java%20Software%20Engineer%20·%20Mar%202025%20–%20Apr%202026&descSize=12&descColor=a0c4ff&descAlignY=90" width="100%"/>
+Backend of a transport ERP --- CRM, HRMS, and core ops. Shipped new
+features, kept microservices healthy, connected third-party APIs that
+automated the tedious stuff.
 
-</div>
+`Java`  `Spring Boot`  `Microservices`  `REST APIs`  `ERP`
 
-Backend of a transport ERP — CRM, HRMS, and core ops. Shipped new features, kept microservices healthy, connected third-party APIs that automated the tedious stuff.
+`<br/>`{=html}
 
-`Java` &nbsp;`Spring Boot` &nbsp;`Microservices` &nbsp;`REST APIs` &nbsp;`ERP`
+::: {align="center"}
+`<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0a1a2e&height=60&text=Nexflare%20Dynamics%2C%20Pune&fontSize=18&fontColor=ffffff&fontAlignY=60&desc=Java%20Software%20Engineer%20Intern%20·%20Sep%202024%20–%20Feb%202025&descSize=12&descColor=a0c4ff&descAlignY=90" width="100%"/>`{=html}
+:::
 
-<br/>
+Built backend modules from scratch, shaped service architecture, and
+survived API testing in production. They kept me on full-time --- which
+felt good.
 
-<div align="center">
+`Spring Boot`  `Architecture`  `API Testing`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0a1a2e&height=60&text=Nexflare%20Dynamics%2C%20Pune&fontSize=18&fontColor=ffffff&fontAlignY=60&desc=Java%20Software%20Engineer%20Intern%20·%20Sep%202024%20–%20Feb%202025&descSize=12&descColor=a0c4ff&descAlignY=90" width="100%"/>
+`<br/>`{=html}
 
-</div>
+::: {align="center"}
+`<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0a1a2e&height=60&text=Xenosis%20IT%20Solutions%2C%20Nagpur&fontSize=18&fontColor=ffffff&fontAlignY=60&desc=Java%20Software%20Engineer%20Intern%20·%20Jul%202024%20–%20Aug%202024&descSize=12&descColor=a0c4ff&descAlignY=90" width="100%"/>`{=html}
+:::
 
-Built backend modules from scratch, shaped service architecture, and survived API testing in production. They kept me on full-time — which felt good.
+Short but dense. Spring Boot microservices, Spring Security auth,
+RabbitMQ async messaging, Redis caching --- and documented everything
+with Springdoc OpenAPI because future me deserves good docs.
 
-`Spring Boot` &nbsp;`Architecture` &nbsp;`API Testing`
+`Spring Security`  `RabbitMQ`  `Redis`  `OpenAPI`
 
-<br/>
+`<br/>`{=html}
 
-<div align="center">
+------------------------------------------------------------------------
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0a1a2e&height=60&text=Xenosis%20IT%20Solutions%2C%20Nagpur&fontSize=18&fontColor=ffffff&fontAlignY=60&desc=Java%20Software%20Engineer%20Intern%20·%20Jul%202024%20–%20Aug%202024&descSize=12&descColor=a0c4ff&descAlignY=90" width="100%"/>
+`<br/>`{=html}
 
-</div>
-
-Short but dense. Spring Boot microservices, Spring Security auth, RabbitMQ async messaging, Redis caching — and documented everything with Springdoc OpenAPI because future me deserves good docs.
-
-`Spring Security` &nbsp;`RabbitMQ` &nbsp;`Redis` &nbsp;`OpenAPI`
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00b4d8,100:0D1117&height=120&section=footer&text=Open%20to%20opportunities%20·%20Pune%20·%20Nagpur%20·%20Remote&fontSize=14&fontColor=a0c4ff&fontAlignY=65" width="100%"/>
-
-</div>
+::: {align="center"}
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00b4d8,100:0D1117&height=120&section=footer&text=Open%20to%20opportunities%20·%20Pune%20·%20Nagpur%20·%20Remote&fontSize=14&fontColor=a0c4ff&fontAlignY=65" width="100%"/>`{=html}
+:::
